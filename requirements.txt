@@ -1,0 +1,6 @@
+mss
+pyautogui
+natsort
+pynput
+Pillow
+PySide6
